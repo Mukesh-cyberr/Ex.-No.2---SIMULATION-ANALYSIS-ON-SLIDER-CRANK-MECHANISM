@@ -36,18 +36,21 @@
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
+![EMPD EXP 2 1](https://github.com/user-attachments/assets/3127a2d1-4b69-4afc-be3c-c3aa11d284dd)
+![EMPD EXP 2 2](https://github.com/user-attachments/assets/1fba8b15-1e6f-49c9-9eb2-7e67b023fbc0)
+![EMPD EXP 2 3](https://github.com/user-attachments/assets/74ed5a9e-e760-48b7-982d-7161a1a2c84d)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
+
+
+
 
 ## Output
 
 
-### Name:
-### Register Number: 
+### Name: D MUKESH RAJ
+### Register Number:24900252 
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
